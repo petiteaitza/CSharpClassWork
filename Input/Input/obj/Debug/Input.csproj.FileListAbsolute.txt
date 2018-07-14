@@ -1,0 +1,7 @@
+C:\Users\LabUser\Desktop\C# Class\Input\Input\bin\Debug\Input.exe.config
+C:\Users\LabUser\Desktop\C# Class\Input\Input\bin\Debug\Input.exe
+C:\Users\LabUser\Desktop\C# Class\Input\Input\bin\Debug\Input.pdb
+C:\Users\LabUser\Desktop\C# Class\Input\Input\obj\Debug\Input.csproj.CoreCompileInputs.cache
+C:\Users\LabUser\Desktop\C# Class\Input\Input\obj\Debug\Input.exe
+C:\Users\LabUser\Desktop\C# Class\Input\Input\obj\Debug\Input.pdb
+C:\Users\LabUser\Desktop\C# Class\Input\Input\obj\Debug\Input.csprojResolveAssemblyReference.cache
