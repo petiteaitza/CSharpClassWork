@@ -1,0 +1,10 @@
+C:\Users\LabUser\Desktop\C# Class\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\LabUser\Desktop\C# Class\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\LabUser\Desktop\C# Class\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\LabUser\Desktop\C# Class\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\LabUser\Desktop\C# Class\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.InMyFeelingsLyrics.resources
+C:\Users\LabUser\Desktop\C# Class\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\LabUser\Desktop\C# Class\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\LabUser\Desktop\C# Class\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\LabUser\Desktop\C# Class\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\LabUser\Desktop\C# Class\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

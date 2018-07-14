@@ -1,0 +1,9 @@
+C:\Users\LabUser\Desktop\C# Class\DrakeLyrics\DrakeLyrics\bin\Debug\DrakeLyrics.exe.config
+C:\Users\LabUser\Desktop\C# Class\DrakeLyrics\DrakeLyrics\bin\Debug\DrakeLyrics.exe
+C:\Users\LabUser\Desktop\C# Class\DrakeLyrics\DrakeLyrics\bin\Debug\DrakeLyrics.pdb
+C:\Users\LabUser\Desktop\C# Class\DrakeLyrics\DrakeLyrics\obj\Debug\DrakeLyrics.InMyFeelingsLyrics.resources
+C:\Users\LabUser\Desktop\C# Class\DrakeLyrics\DrakeLyrics\obj\Debug\DrakeLyrics.Properties.Resources.resources
+C:\Users\LabUser\Desktop\C# Class\DrakeLyrics\DrakeLyrics\obj\Debug\DrakeLyrics.csproj.GenerateResource.Cache
+C:\Users\LabUser\Desktop\C# Class\DrakeLyrics\DrakeLyrics\obj\Debug\DrakeLyrics.csproj.CoreCompileInputs.cache
+C:\Users\LabUser\Desktop\C# Class\DrakeLyrics\DrakeLyrics\obj\Debug\DrakeLyrics.exe
+C:\Users\LabUser\Desktop\C# Class\DrakeLyrics\DrakeLyrics\obj\Debug\DrakeLyrics.pdb

@@ -1,0 +1,7 @@
+C:\Users\LabUser\Desktop\C# Class\Comparison\Comparison\bin\Debug\Comparison.exe.config
+C:\Users\LabUser\Desktop\C# Class\Comparison\Comparison\bin\Debug\Comparison.exe
+C:\Users\LabUser\Desktop\C# Class\Comparison\Comparison\bin\Debug\Comparison.pdb
+C:\Users\LabUser\Desktop\C# Class\Comparison\Comparison\obj\Debug\Comparison.csprojResolveAssemblyReference.cache
+C:\Users\LabUser\Desktop\C# Class\Comparison\Comparison\obj\Debug\Comparison.csproj.CoreCompileInputs.cache
+C:\Users\LabUser\Desktop\C# Class\Comparison\Comparison\obj\Debug\Comparison.exe
+C:\Users\LabUser\Desktop\C# Class\Comparison\Comparison\obj\Debug\Comparison.pdb

@@ -1,0 +1,4 @@
+﻿1>------ Build started: Project: Arrays, Configuration: Debug Any CPU ------
+1>C:\Users\LabUser\Desktop\C# Class\Arrays\Arrays\Program.cs(15,109,15,109): error CS1001: Identifier expected
+1>C:\Users\LabUser\Desktop\C# Class\Arrays\Arrays\Program.cs(15,109,15,109): error CS1002: ; expected
+========== Build: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========
