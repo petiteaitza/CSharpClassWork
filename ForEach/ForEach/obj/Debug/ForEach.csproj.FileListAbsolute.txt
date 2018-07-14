@@ -1,0 +1,6 @@
+C:\Users\LabUser\Desktop\C# Class\ForEach\ForEach\bin\Debug\ForEach.exe.config
+C:\Users\LabUser\Desktop\C# Class\ForEach\ForEach\bin\Debug\ForEach.exe
+C:\Users\LabUser\Desktop\C# Class\ForEach\ForEach\bin\Debug\ForEach.pdb
+C:\Users\LabUser\Desktop\C# Class\ForEach\ForEach\obj\Debug\ForEach.csproj.CoreCompileInputs.cache
+C:\Users\LabUser\Desktop\C# Class\ForEach\ForEach\obj\Debug\ForEach.exe
+C:\Users\LabUser\Desktop\C# Class\ForEach\ForEach\obj\Debug\ForEach.pdb

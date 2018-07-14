@@ -1,0 +1,3 @@
+﻿1>------ Build started: Project: WelcomeMe, Configuration: Debug Any CPU ------
+1>C:\Users\LabUser\Desktop\C# Class\WelcomeMe\WelcomeMe\Program.cs(15,13,15,100): error CS0201: Only assignment, call, increment, decrement, and new object expressions can be used as a statement
+========== Build: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========

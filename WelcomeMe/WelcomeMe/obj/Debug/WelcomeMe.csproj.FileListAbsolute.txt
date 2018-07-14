@@ -1,0 +1,2 @@
+C:\Users\LabUser\Desktop\C# Class\WelcomeMe\WelcomeMe\obj\Debug\WelcomeMe.csprojResolveAssemblyReference.cache
+C:\Users\LabUser\Desktop\C# Class\WelcomeMe\WelcomeMe\obj\Debug\WelcomeMe.csproj.CoreCompileInputs.cache
