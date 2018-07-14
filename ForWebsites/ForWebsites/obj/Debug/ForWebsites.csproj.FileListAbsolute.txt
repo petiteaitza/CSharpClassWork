@@ -1,0 +1,6 @@
+C:\Users\LabUser\Desktop\C# Class\ForWebsites\ForWebsites\bin\Debug\ForWebsites.exe.config
+C:\Users\LabUser\Desktop\C# Class\ForWebsites\ForWebsites\bin\Debug\ForWebsites.exe
+C:\Users\LabUser\Desktop\C# Class\ForWebsites\ForWebsites\bin\Debug\ForWebsites.pdb
+C:\Users\LabUser\Desktop\C# Class\ForWebsites\ForWebsites\obj\Debug\ForWebsites.csproj.CoreCompileInputs.cache
+C:\Users\LabUser\Desktop\C# Class\ForWebsites\ForWebsites\obj\Debug\ForWebsites.exe
+C:\Users\LabUser\Desktop\C# Class\ForWebsites\ForWebsites\obj\Debug\ForWebsites.pdb

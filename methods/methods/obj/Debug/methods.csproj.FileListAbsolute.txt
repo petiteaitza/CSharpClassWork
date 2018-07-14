@@ -1,0 +1,2 @@
+C:\Users\LabUser\Desktop\C# Class\methods\methods\obj\Debug\methods.csprojResolveAssemblyReference.cache
+C:\Users\LabUser\Desktop\C# Class\methods\methods\obj\Debug\methods.csproj.CoreCompileInputs.cache
