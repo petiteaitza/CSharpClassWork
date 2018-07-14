@@ -1,0 +1,10 @@
+C:\Users\LabUser\Desktop\C# Class\HelloForms\HelloForms\bin\Debug\HelloForms.exe.config
+C:\Users\LabUser\Desktop\C# Class\HelloForms\HelloForms\bin\Debug\HelloForms.exe
+C:\Users\LabUser\Desktop\C# Class\HelloForms\HelloForms\bin\Debug\HelloForms.pdb
+C:\Users\LabUser\Desktop\C# Class\HelloForms\HelloForms\obj\Debug\HelloForms.csprojResolveAssemblyReference.cache
+C:\Users\LabUser\Desktop\C# Class\HelloForms\HelloForms\obj\Debug\HelloForms.HelloForm.resources
+C:\Users\LabUser\Desktop\C# Class\HelloForms\HelloForms\obj\Debug\HelloForms.Properties.Resources.resources
+C:\Users\LabUser\Desktop\C# Class\HelloForms\HelloForms\obj\Debug\HelloForms.csproj.GenerateResource.Cache
+C:\Users\LabUser\Desktop\C# Class\HelloForms\HelloForms\obj\Debug\HelloForms.csproj.CoreCompileInputs.cache
+C:\Users\LabUser\Desktop\C# Class\HelloForms\HelloForms\obj\Debug\HelloForms.exe
+C:\Users\LabUser\Desktop\C# Class\HelloForms\HelloForms\obj\Debug\HelloForms.pdb

@@ -1,0 +1,14 @@
+C:\Users\LabUser\Desktop\C# Class\HelloFriend\HelloFriend\bin\Debug\HelloFriend.exe.config
+C:\Users\LabUser\Desktop\C# Class\HelloFriend\HelloFriend\bin\Debug\HelloFriend.exe
+C:\Users\LabUser\Desktop\C# Class\HelloFriend\HelloFriend\bin\Debug\HelloFriend.pdb
+C:\Users\LabUser\Desktop\C# Class\HelloFriend\HelloFriend\obj\Debug\MainWindow.g.cs
+C:\Users\LabUser\Desktop\C# Class\HelloFriend\HelloFriend\obj\Debug\App.g.cs
+C:\Users\LabUser\Desktop\C# Class\HelloFriend\HelloFriend\obj\Debug\HelloFriend_MarkupCompile.cache
+C:\Users\LabUser\Desktop\C# Class\HelloFriend\HelloFriend\obj\Debug\HelloFriend_MarkupCompile.lref
+C:\Users\LabUser\Desktop\C# Class\HelloFriend\HelloFriend\obj\Debug\MainWindow.baml
+C:\Users\LabUser\Desktop\C# Class\HelloFriend\HelloFriend\obj\Debug\HelloFriend.g.resources
+C:\Users\LabUser\Desktop\C# Class\HelloFriend\HelloFriend\obj\Debug\HelloFriend.Properties.Resources.resources
+C:\Users\LabUser\Desktop\C# Class\HelloFriend\HelloFriend\obj\Debug\HelloFriend.csproj.GenerateResource.Cache
+C:\Users\LabUser\Desktop\C# Class\HelloFriend\HelloFriend\obj\Debug\HelloFriend.csproj.CoreCompileInputs.cache
+C:\Users\LabUser\Desktop\C# Class\HelloFriend\HelloFriend\obj\Debug\HelloFriend.exe
+C:\Users\LabUser\Desktop\C# Class\HelloFriend\HelloFriend\obj\Debug\HelloFriend.pdb
