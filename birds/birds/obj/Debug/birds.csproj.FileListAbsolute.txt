@@ -1,0 +1,7 @@
+C:\Users\LabUser\Desktop\C# Class\birds\birds\bin\Debug\birds.exe.config
+C:\Users\LabUser\Desktop\C# Class\birds\birds\bin\Debug\birds.exe
+C:\Users\LabUser\Desktop\C# Class\birds\birds\bin\Debug\birds.pdb
+C:\Users\LabUser\Desktop\C# Class\birds\birds\obj\Debug\birds.csprojResolveAssemblyReference.cache
+C:\Users\LabUser\Desktop\C# Class\birds\birds\obj\Debug\birds.csproj.CoreCompileInputs.cache
+C:\Users\LabUser\Desktop\C# Class\birds\birds\obj\Debug\birds.exe
+C:\Users\LabUser\Desktop\C# Class\birds\birds\obj\Debug\birds.pdb

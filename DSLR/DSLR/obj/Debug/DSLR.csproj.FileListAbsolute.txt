@@ -1,0 +1,6 @@
+C:\Users\LabUser\Desktop\C# Class\DSLR\DSLR\obj\Debug\DSLR.csproj.CoreCompileInputs.cache
+C:\Users\LabUser\Desktop\C# Class\DSLR\DSLR\bin\Debug\DSLR.exe.config
+C:\Users\LabUser\Desktop\C# Class\DSLR\DSLR\bin\Debug\DSLR.exe
+C:\Users\LabUser\Desktop\C# Class\DSLR\DSLR\bin\Debug\DSLR.pdb
+C:\Users\LabUser\Desktop\C# Class\DSLR\DSLR\obj\Debug\DSLR.exe
+C:\Users\LabUser\Desktop\C# Class\DSLR\DSLR\obj\Debug\DSLR.pdb
