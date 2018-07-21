@@ -7,49 +7,44 @@ namespace Pets
 +        static void Main(string[] args)
 +        {
 +            Camera canon = new Camera();
-+            canon.setValues("Mark 6D", 3, "Brown");
-+            string tagF = String.Format("{0} is a {1} year old {2} dog",
-+                fido.getName(),
-+                fido.getAge(),
-+                fido.getColor()
++            canon.setValues("Mark 6D", "100 GB", "50mm 1.2");
++            string tag = String.Format("This {0} has  {1} of memory and  {2} lens attached",
++                canon.getName(),
++                canon.getMemory(),
++                canon.getLens()
 +                );
 +
 +
-+            Console.WriteLine(tagF + canon.snap());
++            Console.WriteLine(tagC + canon.snap());
 +
-+            Dog lucy = new Dog();
-+            lucy.setValues("Lucy", 2, "Gray");
-+            string tagL = String.Format("{0} is a {1} year old {2} dog",
-+              lucy.getName(),
-+            lucy.getAge(),
-+            lucy.getColor()
++            
 +
 +            );
 +              
 +
-+            Console.WriteLine(tagL + lucy.bark());
++            
 +
 +
 +            Console.ReadKey();
 +        }
 +        
 +      
-+        public class Dog
++        public class Camera
 +        {
-+            private string name, color;
-+            private int age;
++            private string name, memory, lens;
++            
 +
-+            public void setValues(string name, int age, string color)
++            public void setValues(string name, string memory, string lens)
 +            {
 +                this.name = name;
-+                this.age = age;
-+                this.color = color;
++                this.memory = memory;
++                this.lens = lens;
 +            }
 +
 +
 +            public string getName() { return name; }
-+            public int getAge() { return age; }
-+            public string getColor() { return color; }
++            public int getMemory() { return memory; }
++            public string getLens() { return lens; }
 +
 +            public string snap()
 +            {
