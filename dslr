@@ -6,8 +6,8 @@ namespace Pets
 +
 +        static void Main(string[] args)
 +        {
-+            Dog fido = new Dog();
-+            fido.setValues("Fido", 3, "Brown");
++            Camera canon = new Camera();
++            canon.setValues("Mark 6D", 3, "Brown");
 +            string tagF = String.Format("{0} is a {1} year old {2} dog",
 +                fido.getName(),
 +                fido.getAge(),
@@ -15,7 +15,7 @@ namespace Pets
 +                );
 +
 +
-+            Console.WriteLine(tagF + fido.bark());
++            Console.WriteLine(tagF + canon.snap());
 +
 +            Dog lucy = new Dog();
 +            lucy.setValues("Lucy", 2, "Gray");
@@ -51,9 +51,9 @@ namespace Pets
 +            public int getAge() { return age; }
 +            public string getColor() { return color; }
 +
-+            public string bark()
++            public string snap()
 +            {
-+                return "\nWoof, woof!\n";
++                return "\Image Captured!\n";
 +            }
 +        }
 +
