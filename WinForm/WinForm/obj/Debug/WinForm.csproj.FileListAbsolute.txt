@@ -1,0 +1,10 @@
+C:\Users\LabUser\Desktop\C# Class\WinForm\WinForm\bin\Debug\WinForm.exe.config
+C:\Users\LabUser\Desktop\C# Class\WinForm\WinForm\bin\Debug\WinForm.exe
+C:\Users\LabUser\Desktop\C# Class\WinForm\WinForm\bin\Debug\WinForm.pdb
+C:\Users\LabUser\Desktop\C# Class\WinForm\WinForm\obj\Debug\WinForm.csprojResolveAssemblyReference.cache
+C:\Users\LabUser\Desktop\C# Class\WinForm\WinForm\obj\Debug\WinForm.FirstGUI.resources
+C:\Users\LabUser\Desktop\C# Class\WinForm\WinForm\obj\Debug\WinForm.Properties.Resources.resources
+C:\Users\LabUser\Desktop\C# Class\WinForm\WinForm\obj\Debug\WinForm.csproj.GenerateResource.Cache
+C:\Users\LabUser\Desktop\C# Class\WinForm\WinForm\obj\Debug\WinForm.csproj.CoreCompileInputs.cache
+C:\Users\LabUser\Desktop\C# Class\WinForm\WinForm\obj\Debug\WinForm.exe
+C:\Users\LabUser\Desktop\C# Class\WinForm\WinForm\obj\Debug\WinForm.pdb

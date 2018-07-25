@@ -1,0 +1,10 @@
+C:\Users\LabUser\Desktop\C# Class\GatherText\GatherText\bin\Debug\GatherText.exe.config
+C:\Users\LabUser\Desktop\C# Class\GatherText\GatherText\bin\Debug\GatherText.exe
+C:\Users\LabUser\Desktop\C# Class\GatherText\GatherText\bin\Debug\GatherText.pdb
+C:\Users\LabUser\Desktop\C# Class\GatherText\GatherText\obj\Debug\GatherText.csprojResolveAssemblyReference.cache
+C:\Users\LabUser\Desktop\C# Class\GatherText\GatherText\obj\Debug\GatherText.Form1.resources
+C:\Users\LabUser\Desktop\C# Class\GatherText\GatherText\obj\Debug\GatherText.Properties.Resources.resources
+C:\Users\LabUser\Desktop\C# Class\GatherText\GatherText\obj\Debug\GatherText.csproj.GenerateResource.Cache
+C:\Users\LabUser\Desktop\C# Class\GatherText\GatherText\obj\Debug\GatherText.csproj.CoreCompileInputs.cache
+C:\Users\LabUser\Desktop\C# Class\GatherText\GatherText\obj\Debug\GatherText.exe
+C:\Users\LabUser\Desktop\C# Class\GatherText\GatherText\obj\Debug\GatherText.pdb
